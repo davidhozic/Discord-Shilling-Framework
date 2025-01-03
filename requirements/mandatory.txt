@@ -6,5 +6,5 @@ tkinter-async-execute>=1.2,<1.4
 asyncio-event-hub>=1.0,<1.2
 tkclasswiz>=1.4,<1.5
 ttkbootstrap==1.10.1
-pillow>=10.4.0,<11.1.0
+pillow>=10.4.0,<11.2.0
 audioop-lts~=0.2.0; python_version>='3.13'
