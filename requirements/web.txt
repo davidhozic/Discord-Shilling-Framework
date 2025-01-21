@@ -1,3 +1,3 @@
-selenium>=4.16,<4.27
+selenium>=4.16,<4.29
 undetected-chromedriver>=3.5,<3.6
 webdriver-manager>=4.0,<4.1
